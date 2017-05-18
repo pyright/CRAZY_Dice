@@ -14,15 +14,9 @@ Task 3: Write roll() function. Generates a random integer between 0 and sizeof(d
 
 
 
-Important Cnosideration: Develop test code to prove uniform distribution of numbers. Make input a text file of numbers formatted similar to....
+Important Consideration: Develop test code to prove uniform distribution of numbers. Write output to a text file of numbers formatted similar to....
 
-    Num1
-    Num2
-    Num3
-    .
-    .
-    .
-    NumZ
+    $number~$number~$number~$number~$number~$number~$number~
 
 
 
