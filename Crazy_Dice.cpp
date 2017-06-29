@@ -2,7 +2,7 @@
 
 		By Michael E. Campos
 		Last modified on 18 May 2017 at 0853
-
+thissentenceisthirty-ninecharacterslong
 */
 
 #include <stdio.h>
@@ -53,6 +53,8 @@ int main(int argc, char* argv[]) {
   
   
   // Create a .txt file named "rolls.txt"
+  fstream rollsFile;
+  rollsFile.open ("rolls.txt");
   
   // Create random devices
   std::random_device rd;
@@ -69,7 +71,31 @@ int main(int argc, char* argv[]) {
   // Write the content of rolls[] to "rolls.txt"
   
   
+  
+  // Close the .txt file
+  
+  
 }
 ////////////
 //END MAIN//
 ////////////
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
